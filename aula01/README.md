@@ -4,7 +4,7 @@
 ### Comandos
 Mudar para um branch e ja criar.
 ```bash
-git checkout -b nodeDaBranch
+git checkout -b nomeDaBranch
 ```
 
 
